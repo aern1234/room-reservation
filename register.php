@@ -85,7 +85,7 @@ if (!empty($id)) {
                                 <p class="err-validate" id="validateTel"></p>
                             </div>
                         </div>
-                        <button id="handleRegister" class="btn bg-lightblue w-100">สมัครสมาขิก</button>
+                        <button id="handleRegister" class="btn bg-lightblue w-100">สมัครสมาชิก</button>
                         <div class="text-center my-2">
                             <p class="m-0 p-2">หากมีบัญชีผู้ใช้งานแล้ว ?</p>
                             <a href="./signin.php" class="btn btn-success">

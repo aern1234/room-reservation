@@ -3,7 +3,7 @@ function connect_db() {
     $host = 'localhost'; // Database host
     $dbname = 'room_reservation_db';
     $username = 'root';
-    $password = 'rootroot';
+    $password = '';
     $dsn = "mysql:host=$host;dbname=$dbname;charset=utf8mb4";
     try {
         $pdo = new PDO($dsn, $username, $password);

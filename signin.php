@@ -50,7 +50,7 @@ if (!empty($member_id)) {
                                 </div>
                         <div class="text-end">
                             <button id="login" class="btn bg-lightblue">ลงชื่อเข้าใช้</button>
-                            <a href="./register.php" class="btn btn-success">สมัครสมาขิก</a>
+                            <a href="./register.php" class="btn btn-success">สมัครสมาชิก</a>
                         </div>
                     </div>
                 </div>
